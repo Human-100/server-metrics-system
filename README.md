@@ -1,6 +1,6 @@
 # Server Metrics System  
 
-A **custom server metrics system** with built-in **AI-powered** features, developed during my internship at **Mountech** for **Leadgen’s** server monitoring and performance analysis.  
+A **custom server metrics & monitoring system** with built-in **AI-powered** features, developed during my internship at **Mountech** for **Leadgen’s** server monitoring and performance analysis.  
 
 > **Due to the sensitivity of the company's information, I cannot disclose the source code or the deployment link.**  
 
