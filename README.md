@@ -4,3 +4,5 @@ A server metrics system with built-in AI-powered features, developed during my i
 ![System Model](./Leadgen-metrics-model.png)
 
 ### This System monitors all the active and inactive services on the server
+
+![System Model](./sceeenshot.png)
