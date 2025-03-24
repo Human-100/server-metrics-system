@@ -1,19 +1,39 @@
-# server-metrics-system
-A server metrics system with built-in AI-powered features, developed during my internship at Mountech for Leadgen’s server monitoring and performance analysis.
-** This System monitors all the active and inactive services on the server**
+# Server Metrics System  
 
-![System Model](./Leadgen-metrics-model.png)
+A **custom server metrics system** with built-in **AI-powered** features, developed during my internship at **Mountech** for **Leadgen’s** server monitoring and performance analysis.  
 
-### On the dashboard one can check all their system services and search through them based on various parameters
+> **Due to the sensitivity of the company's information, I cannot disclose the source code or the deployment link.**  
 
-![Screenshot-1](./Screenshot-1.png)
+![System Model](./Leadgen-metrics-model.png)  
 
-### In the Logs Sections, Users can select and cycle through different service's indivisual logs. These Logs are parsed and presented in a readable format. 
+## Overview  
 
-![Screenshot-2](./Screenshot-2.png)
+This system monitors **all active and inactive services** running on the server, providing a **centralized dashboard** for easy management and analysis.  
 
-### Once the logs are fetched, i have assigned an ai agent "ASK Hanan" to read through these hundreds of lines of logs and provide a summary, errros if any found and their counter measures.
+## Dashboard Features  
 
-![Screenshot-3](./Screenshot-3.png)
+- Displays all system services, including their statuses.  
+- Allows users to search through services using various filters.  
 
-### This way any non-technical person will also be able to go through their server and its services without needing much technical knowledge.
+![Screenshot-1](./Screenshot-1.png)  
+
+## Logs Section  
+
+- Users can view and navigate through **individual logs** of different services.  
+- Logs are **parsed and presented** in a structured, readable format.  
+
+![Screenshot-2](./Screenshot-2.png)  
+
+## AI-Powered Log Analysis  
+
+Once the logs are fetched, an **AI agent** named **"ASK Hanan"** analyzes them to:  
+
+- Summarize hundreds of log lines efficiently.  
+- Detect errors and highlight critical issues.  
+- Suggest countermeasures for detected problems.  
+
+![Screenshot-3](./Screenshot-3.png)  
+
+## User-Friendly Monitoring  
+
+This system ensures that **even non-technical users** can monitor their servers and services **without requiring extensive technical expertise**.  
